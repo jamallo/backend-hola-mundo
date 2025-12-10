@@ -1,4 +1,4 @@
-package com.alba;
+package com.alba; //modificado desde IntelliJ Idea - Alba Prado
 
 import org.springframework.web.bind.annotation.*;
 
